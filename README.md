@@ -164,3 +164,17 @@ POS 연동
 장바구니 (수량 변경, 삭제, 총액 계산)
 주문 완료 (SQLite 저장)
 관리자 화면 (메뉴 수정, 품절 처리)
+
+RestaurantKiosk 이 폴더 안에
+
+main.py              # 시작
+menu.py              # 메뉴 화면
+cart.py              # 장바구니
+database.py          # 주문 저장
+
+images/
+ ├ kimchi.jpg
+ ├ bulgogi.jpg
+ └ noodle.jpg
+
+ 
